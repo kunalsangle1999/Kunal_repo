@@ -1,0 +1,29 @@
+# Ignore compiled binaries and executables
+*.exe
+*.dll
+*.bpl
+*.res
+__history/
+
+# Ignore Delphi project files
+*.dsk
+*.dproj.local
+*.identcache
+*.cfg
+*.groupproj
+*.iocomp
+
+# Ignore Delphi output folders
+__recovery/
+__history/
+__debug/
+__releases/
+__recycler/
+
+# Ignore user-specific Delphi settings
+*.local
+*.identcache
+*.drc
+*.dsk
+*.bdsproj.*
+*.tvsconfig
